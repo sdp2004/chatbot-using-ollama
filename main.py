@@ -1,14 +1,12 @@
 
 import getpass
 
-from azure.identity import ChainedTokenCredential, ManagedIdentityCredential, AzureCliCredential
 from langchain_openai import AzureOpenAI
 import os
-from azure.identity import DefaultAzureCredential
 
 
 
-#Note: The openai-python library support for Azure OpenAI is in preview.
+
 import os
 
 
