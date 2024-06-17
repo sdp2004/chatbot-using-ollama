@@ -1,1 +1,1 @@
-# chatbot-using-ollama
+# chatbot-using-LangChain+AzureOpenAI+SQL
