@@ -1,0 +1,19 @@
+{
+  "name": "chatbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sdp2004/chatbot-using-ollama.git"
+  },
+  "author": "Soumi Pal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sdp2004/chatbot-using-ollama/issues"
+  },
+  "homepage": "https://github.com/sdp2004/chatbot-using-ollama#readme"
+}
